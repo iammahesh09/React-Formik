@@ -24,6 +24,9 @@ function Navigation () {
 							<li className="nav-item">
 								<Link className="nav-link active" aria-current="page" to="/formik-render-props">RenderProps</Link>
 							</li>
+							<li className="nav-item">
+								<Link className="nav-link active" aria-current="page" to="/formik-components">Formik Components</Link>
+							</li>
 						</ul>
 					</div>
 				</div>
